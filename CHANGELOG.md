@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.0.6] - 2025-03-09
+## [1.0.0] - 2025-03-09
 
 ### Added
 - Redis-backed queue system for reliable job processing
@@ -29,11 +29,3 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 - Fixed issue with Redis script loading
 - Resolved race conditions in job processing
-
-## [1.0.0] - 2025-03-01
-
-### Added
-- Initial release of QTask
-- Basic queue functionality
-- Redis integration
-- Job processing capabilities

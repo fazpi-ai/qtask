@@ -1,6 +1,6 @@
 {
   "name": "@fazpi-ai/qtask",
-  "version": "1.0.6",
+  "version": "1.0.0",
   "description": "A Redis-based queue processing library for Node.js, designed for efficient background job processing.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
